@@ -1,4 +1,4 @@
-package com.ota.notetaking;
+package com.ota.notetaking.controller;
 
 
 import com.ota.notetaking.dto.NoteDto;
